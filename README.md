@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+My name is Sarah, and I am currently a master's student at [Western Washington University](https://wwu.edu), studying [Computer Science](cs.wwu.edu).
 <!--
 **SarahCoffland/SarahCoffland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SarahCoffland)](https://github.com/SarahCoffland/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SarahCoffland)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SarahCoffland)](https://github.com/SarahCoffland/SarahCoffland)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SarahCoffland)](https://github.com/anuraghazra/SarahCoffland)
+
