@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-My name is Sarah, and I am currently a master's student at [Western Washington University](https://wwu.edu), studying [Computer Science](cs.wwu.edu).
+My name is Sarah, and I am currently a master's student at [Western Washington University](https://wwu.edu "Westerns Website"), studying [Computer Science](https://cs.wwu.edu "Westerns CS Department Site"). I am also a research assistant at [HutchResearch](https://fw.cs.wwu.edu/~hutchib2/hutchresearch.html "HutchResearch Site"). Currently I am headed down to Florida for Grace Hopper Celebration 2022!
+
 <!--
 **SarahCoffland/SarahCoffland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,8 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SarahCoffland)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SarahCoffland)](https://github.com/anuraghazra/SarahCoffland)
-
+-->
