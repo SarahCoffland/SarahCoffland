@@ -1,4 +1,4 @@
-<div align="center"> ### Hi there 👋 </div>
+### <div align="center"> Hi there 👋 </div>
 
 My name is Sarah, and I am currently a master's student at [Western Washington University](https://wwu.edu "Westerns Website"), studying [Computer Science](https://cs.wwu.edu "Westerns CS Department Site"). I am also a research assistant at [HutchResearch](https://fw.cs.wwu.edu/~hutchib2/hutchresearch.html "HutchResearch Site"). 
 
