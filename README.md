@@ -11,7 +11,7 @@ My name is Sarah, and I am currently a master's student at [Western Washington U
 - 💼 You can usually find me working in the [WWU Makerspace](https://engineeringdesign.wwu.edu/makerspace "Makerspace Website") and the [Student Tech Center](https://stc.wwu.edu/ "Student Tech Center Site")
 - 🖥️ I am the President of the WWU Graduate Cohort
 - 🌈 I am also an Outreach Officer for the Association for Gender Inclusion in Computing
-- 🌎 I do climate modeling using machine learning for [HutchResearch](https://fw.cs.wwu.edu/~hutchib2/hutchresearch.html "HutchResearch Site") in conjunction with [Pacific Northwest National Laboratories](https://pnnl.gov "PNNL Site)
+- 🌎 I do climate modeling using machine learning for [HutchResearch](https://fw.cs.wwu.edu/~hutchib2/hutchresearch.html "HutchResearch Site") in conjunction with [Pacific Northwest National Laboratories](https://pnnl.gov "PNNL Site")
 - 🌱 I’m currently learning how to use Blender!
 
 ### Programming languages:
