@@ -35,7 +35,7 @@ My name is Sarah, and I am currently a master's student at [Western Washington U
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/sarah-coffland/">
 			<img src="https://img.icons8.com/plasticine/452/linkedin.png" width="80" height="80"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/SarahCoffland">
-		<img src="https://img.icons8.com/plasticine/452/github-squared.png" width="80" height="80"></a>
+		<img src="https://img.icons8.com/plasticine/100/000000/github-squared.png" width="80" height="80"></a>
 		<a style="margin-left: 10px;" target="_blank" href="mailto:cofflas@wwu.edu">
 				<img src="https://img.icons8.com/plasticine/452/apple-mail.png" width="80" height="80"></a>
       </div>
