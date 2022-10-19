@@ -5,6 +5,7 @@ My name is Sarah, and I am currently a master's student at [Western Washington U
 -->
 
 ### About me:
+<img align="right" width="100" height="100" src="https://media-exp1.licdn.com/dms/image/C5603AQG1G8irCF_9Yg/profile-displayphoto-shrink_800_800/0/1648967759132?e=1671667200&v=beta&t=oi9_9sBtuZPZ5lu4Gf4mp_afFDIRrD1jFILFfVUbRU8">
 - 🌺 My pronouns are she/her
 - 📜 My undergraduate degree is in Linguistics from [Western Washington University](https://wwu.edu "Westerns Website")
 - 🗨️ I speak Spanish and English
