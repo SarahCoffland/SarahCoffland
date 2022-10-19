@@ -1,5 +1,5 @@
 ## <div align="center"> Hi there I'm Sarah 👋 </div>
-### <div align="center"> Deep Learning Researcher </div>
+#### <div align="center"> Deep Learning Researcher </div>
 
 <!--
 My name is Sarah, and I am currently a master's student at [Western Washington University](https://wwu.edu "Westerns Website"), studying [Computer Science](https://cs.wwu.edu "Westerns CS Department Site"). I am also a research assistant at [HutchResearch](https://fw.cs.wwu.edu/~hutchib2/hutchresearch.html "HutchResearch Site"). 
@@ -7,7 +7,6 @@ My name is Sarah, and I am currently a master's student at [Western Washington U
 
 <img align="right" width="300" height="300" src="https://media-exp1.licdn.com/dms/image/C5603AQG1G8irCF_9Yg/profile-displayphoto-shrink_800_800/0/1648967759132?e=1671667200&v=beta&t=oi9_9sBtuZPZ5lu4Gf4mp_afFDIRrD1jFILFfVUbRU8">
 
-### About me:
 - 🌺 My pronouns are she/her
 - 📜 My undergraduate degree is in Linguistics from [Western Washington University](https://wwu.edu "Westerns Website")
 - 🗨️ I speak Spanish and English
