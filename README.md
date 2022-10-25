@@ -11,7 +11,7 @@ My name is Sarah, and I am currently a master's student at [Western Washington U
 - 📜 My undergraduate degree is in [Linguistics](https://chss.wwu.edu/linguistics "WWU Linguistics") from [Western Washington University](https://wwu.edu "Westerns Website")
 - 🗨️ I speak Spanish and English
 - 💼 You can usually find me working in the [WWU Makerspace](https://engineeringdesign.wwu.edu/makerspace "Makerspace Website") and the [Student Tech Center](https://stc.wwu.edu/ "Student Tech Center Site")
-- 🖥️ I am the President of the WWU CS Graduate Cohort
+- 🖥️ I am the President of the [WWU CS Graduate Cohort](https://cs.wwu.edu/graduate-students "WWU Grad Student Cohort")
 - 🌈 I am also an Outreach Officer for the Association for Gender Inclusion in Computing
 - 🌎 I do climate modeling using machine learning for [HutchResearch](https://fw.cs.wwu.edu/~hutchib2/hutchresearch.html "HutchResearch Site") in conjunction with [Pacific Northwest National Laboratories](https://pnnl.gov "PNNL Site")
 - 🌱 I’m currently learning how to use Blender!
