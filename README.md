@@ -5,7 +5,7 @@
 My name is Sarah, and I am currently a master's student at [Western Washington University](https://wwu.edu "Westerns Website"), studying [Computer Science](https://cs.wwu.edu "Westerns CS Department Site"). I am also a research assistant at [HutchResearch](https://fw.cs.wwu.edu/~hutchib2/hutchresearch.html "HutchResearch Site"). 
 -->
 
-<img align="right" width="215" height="215" src="[[![image](https://cs.wwu.edu/files/styles/directory_listing/public/pictures/2022-10/linkedin%20photo.png?h=62807057&itok=pviYuuu9)">
+<img align="right" width="215" height="215" src="https://github.com/SarahCoffland/SarahCoffland/blob/main/linkedin%20photo.png">
 
 - 🌺 My pronouns are she/her
 - 📜 My undergraduate degree is in [Linguistics](https://chss.wwu.edu/linguistics "WWU Linguistics") from [Western Washington University](https://wwu.edu "Westerns Website")
@@ -19,7 +19,8 @@ My name is Sarah, and I am currently a master's student at [Western Washington U
 <div align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/> <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)" alt="C"/> <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white alt="Markdown"/>
 </div>
-
+	  
+	  
 <!--
 <div id="contact">
   <a href="https://www.linkedin.com/in/sarah-coffland">
@@ -27,8 +28,8 @@ My name is Sarah, and I am currently a master's student at [Western Washington U
   </a>
 </div>
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SarahCoffland&theme=transparent&custom_title=GitHub&nbsp;Stats)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SarahCoffland&theme=transparent)](https://github.com/anuraghazra/SarahCoffland)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SarahCoffland&theme=transparent&custom_title=GitHub&nbsp;Stats&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SarahCoffland&theme=transparent&hide_border=true)](https://github.com/anuraghazra/SarahCoffland)
     
 ### <div align="center"> Contact me </div>
 <p align="center">
