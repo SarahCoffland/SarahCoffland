@@ -28,8 +28,8 @@ My name is Sarah, and I am currently a master's student at [Western Washington U
   </a>
 </div>
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SarahCoffland&theme=transparent&custom_title=GitHub&nbsp;Stats&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SarahCoffland&theme=transparent&hide_border=true)](https://github.com/anuraghazra/SarahCoffland)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SarahCoffland&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SarahCoffland&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/SarahCoffland)
     
 ### <div align="center"> Contact me </div>
 <p align="center">
